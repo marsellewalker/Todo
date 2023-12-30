@@ -1,0 +1,40 @@
+body{
+    background-color: bisque;
+}
+
+
+h1{
+  display: flex;
+  justify-content: center;
+  font-size: 100px;
+  color: aqua;
+  text-shadow:5px 1px 0 #f60707
+
+}
+
+
+.check{
+  width: 20px;
+  margin-top: 15px;
+  margin-right: 10px;}
+.remove{
+  margin-top: 15px;
+  margin-left: 10px;
+  width: 80px;
+  height: 35px;
+  font-size: 15px;
+}
+
+ul{
+  list-style:none;
+  text-shadow:5px 1px 0 #f60707}
+
+li{
+  display: flex;
+  justify-content: center;
+  font-size: 50px;}
+.div1{
+  display: flex;
+  justify-content: center;
+  
+ }
